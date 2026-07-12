@@ -1,27 +1,322 @@
-# 💫 About Me:
-doing leetcode,preparing for GATE,writng a book, participated and completing google prompt wars,building some personal projects (3D ai companion, heartspace (mobile application)chat system for couples),wroking as a contributor in gssoc,looking for internships/jobs,))<br>
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ARSH SHARMA — GITHUB PROFILE README                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ╔══════════ HEADER ══════════╗ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7c3aed&height=280&section=header&text=Arsh%20Sharma&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Dev%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Open%20Source%20Contributor&descColor=e2e8f0&descSize=20&descAlignY=60&descAlign=50" alt="header"/>
+
+</div>
+<!-- ╚══════════ HEADER ══════════╝ -->
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MkeVQHDFy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ArshSud0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arsh_sudo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arshsharma69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hsra_amrahs) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@ARSH SHARMA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arsharma9966@gmail.com) 
+<!-- ╔══════════ TYPING ANIMATION ══════════╗ -->
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=flat) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=flat&logo=Airbnb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=flat&logo=Uber&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=flat) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=flat&logo=SquareEnix&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=flat&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Arsh-sudo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Arsh-sudo&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arsh-sudo&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/Arsh-sudo">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Building+3D+AI+Companion+%F0%9F%A4%96;Creating+HeartSpace+Couples+App+%F0%9F%92%91;Solving+LeetCode+Daily+%F0%9F%94%A5;Cracking+GATE+%F0%9F%8E%AF;Writing+a+Book+%E2%9C%8D%EF%B8%8F;GSSoC+Open+Source+Contributor+%F0%9F%8C%9F;Open+to+Internships+%26+Jobs+%F0%9F%92%BC" alt="Typing SVG"/>
+</a>
 
+</div>
+<!-- ╚══════════ TYPING ANIMATION ══════════╝ -->
+
+
+<br/>
+
+<!-- ╔══════════ SOCIAL BADGES ══════════╗ -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshsharma69)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hsra_amrahs)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MkeVQHDFy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arsh_sudo)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ArshSud0)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsharma9966@gmail.com)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Arsh-sudo&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Arsh-sudo)
+[![GitHub Followers](https://img.shields.io/github/followers/Arsh-sudo?style=for-the-badge&logo=github&color=7c3aed&labelColor=0d1117)](https://github.com/Arsh-sudo?tab=followers)
+
+</div>
+<!-- ╚══════════ SOCIAL BADGES ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ ABOUT ME ══════════╗ -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+<img align="right" alt="Coding" height="320" width="370" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 CS undergrad grinding **GATE** with code, coffee & stubbornness  
+🤖 Crafting a **3D AI Companion** that lives and breathes interaction  
+💑 Building **HeartSpace** — an intimate mobile sanctuary for couples  
+✍️ Writing a **book** between commits and coffee breaks  
+🏆 Competing in **Google Prompt Wars** with AI-powered creativity  
+🌍 Active **GSSoC contributor** — PRs speak louder than words  
+🧩 Daily **LeetCode** grinder — turning hard problems into muscle memory  
+📡 Exploring **AI, 3D graphics, WebGL & mobile development** non-stop  
+🔭 Always building, always shipping, always learning  
+💼 **Actively seeking internships & full-time opportunities!**  
+📬 Contact: **arsharma9966@gmail.com**
+
+<br clear="both"/>
+<!-- ╚══════════ ABOUT ME ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ PROJECTS ══════════╗ -->
+## 🚀 What I'm Currently Building
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h3>🤖 3D AI Companion</h3>
+
+<p>An immersive 3D AI entity with real-time natural language interaction, expressive animations, and emotional intelligence — bridging humans and machines in an entirely new dimension.</p>
+
+<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-F59E0B?style=for-the-badge" alt="status"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+<img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL"/>
+<img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square&logoColor=white" alt="AI"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<h3>💑 HeartSpace</h3>
+
+<p>A dedicated mobile app crafted for couples — featuring intimate messaging, mood syncing, shared memory vaults, and micro-gestures. Because love deserves its own dedicated platform.</p>
+
+<img src="https://img.shields.io/badge/Status-🚧%20In%20Progress-F59E0B?style=for-the-badge" alt="status"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34" alt="Firebase"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square&logoColor=white" alt="AI"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+<!-- ╚══════════ PROJECTS ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ TECH STACK ══════════╗ -->
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<h4>💡 Languages</h4>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,ts,kotlin,go,php&theme=dark" alt="languages-1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,bash,powershell&theme=dark" alt="languages-2"/>
+
+<br/><br/>
+
+<h4>🔧 Frameworks & Libraries</h4>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,django,flask,fastapi,flutter,express,nestjs,nodejs&theme=dark" alt="frameworks-1"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=vite,tailwind,bootstrap,expo,wordpress&theme=dark" alt="frameworks-2"/>
+
+<br/><br/>
+
+<h4>🗄️ Databases</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase&theme=dark" alt="databases"/>
+
+<br/><br/>
+
+<h4>☁️ Cloud & Hosting</h4>
+
+<img src="https://skillicons.dev/icons?i=gcp,cloudflare,netlify,vercel&theme=dark" alt="cloud"/>
+
+<br/><br/>
+
+<h4>🛠️ DevOps, Tools & Design</h4>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,postman,figma,notion,blender&theme=dark" alt="devtools"/>
+
+<br/><br/>
+
+<h4>🤖 AI / ML & Hardware</h4>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,unity,unreal,arduino&theme=dark" alt="ai-ml"/>
+
+</div>
+<!-- ╚══════════ TECH STACK ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ GITHUB STATS ══════════╗ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table border="0">
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-sudo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Arsh's GitHub Stats"/>
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-sudo&layout=compact&count_private=true&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="96%" src="https://streak-stats.demolab.com/?user=Arsh-sudo&background=0d1117&hide_border=true&stroke=7c3aed&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=a855f7" alt="GitHub Streak Stats"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Arsh-sudo&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+<!-- ╚══════════ GITHUB STATS ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ TROPHIES ══════════╗ -->
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arsh-sudo&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Arsh-sudo&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=Arsh-sudo&theme=tokyonight&no-frame=true&margin-w=6&column=4" alt="GitHub Trophies"/>
+
+</div>
+
+<br/>
+
+## 🔝 Top Contributed Repos
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Arsh-sudo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+
+</div>
+<!-- ╚══════════ TROPHIES ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ CONTRIBUTION SNAKE ══════════╗ -->
+## 🐍 Contribution Snake
+
+<!--
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TO ACTIVATE THE SNAKE, do these ONE-TIME steps:
+
+  1. Create the file: .github/workflows/snake.yml
+     with the content below ↓
+
+  2. Go to: Settings → Actions → General
+     Set "Workflow permissions" to "Read and write"
+
+  3. Run the workflow manually once from the Actions tab.
+     After that it runs automatically every 12 hours.
+
+  ─── .github/workflows/snake.yml ───────────────────
+  name: Generate Snake
+
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        - uses: crazy-max/ghaction-github-pages@v3
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  ────────────────────────────────────────────────────
+-->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsh-sudo/Arsh-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsh-sudo/Arsh-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Arsh-sudo/Arsh-sudo/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+<!-- ╚══════════ CONTRIBUTION SNAKE ══════════╝ -->
+
+
+<!-- ─── DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+<!-- ╔══════════ DEV WISDOM ══════════╗ -->
+## ✍️ Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&borderColor=%237c3aed&bgColor=%230d1117&textColor=%23c9d1d9&qColor=%23a855f7&aColor=%23c084fc" alt="Random Dev Joke"/>
+
+</div>
+<!-- ╚══════════ DEV WISDOM ══════════╝ -->
+
+
+<br/>
+
+<!-- ╔══════════ FOOTER ══════════╗ -->
+<div align="center">
 
 ---
-[![](https://komarev.com/ghpvc/?username=Arsh-sudo&icon=9&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>💜 Crafted with passion by <a href="https://github.com/Arsh-sudo"><strong>Arsh Sharma</strong></a> — because average profiles are boring</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+<!-- ╚══════════ FOOTER ══════════╝ -->
