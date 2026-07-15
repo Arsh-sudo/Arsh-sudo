@@ -181,10 +181,10 @@
 <table border="0">
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsh-sudo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Arsh's GitHub Stats"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Arsh-sudo&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Arsh's GitHub Stats"/>
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-sudo&layout=compact&count_private=true&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Arsh-sudo&layout=compact&count_private=true&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages"/>
 </td>
 </tr>
 </table>
@@ -210,7 +210,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arsh-sudo&theme=tokyonight&no-frame=true&margin-w=6&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Arsh-sudo&theme=radical&no-frame=false&margin-w=4&column=6" alt="GitHub Trophies"/>
 
 </div>
 
@@ -220,7 +220,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Arsh-sudo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Arsh-sudo&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
 
 </div>
 <!-- ╚══════════ TROPHIES ══════════╝ -->
@@ -235,25 +235,16 @@
 
 <!--
   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  TO ACTIVATE THE SNAKE, do these ONE-TIME steps:
+  SNAKE SETUP — 3 easy steps to unlock the animation:
 
-  1. Create the file: .github/workflows/snake.yml
-     with the content below ↓
+  STEP 1 ► Create .github/workflows/snake.yml in your repo
+           with this exact content:
 
-  2. Go to: Settings → Actions → General
-     Set "Workflow permissions" to "Read and write"
-
-  3. Run the workflow manually once from the Actions tab.
-     After that it runs automatically every 12 hours.
-
-  ─── .github/workflows/snake.yml ───────────────────
   name: Generate Snake
-
   on:
     schedule:
       - cron: "0 */12 * * *"
     workflow_dispatch:
-
   jobs:
     build:
       runs-on: ubuntu-latest
@@ -273,7 +264,13 @@
             build_dir: dist
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  ────────────────────────────────────────────────────
+
+  STEP 2 ► Go to: Settings → Actions → General
+           Set "Workflow permissions" → "Read and write permissions" → Save
+
+  STEP 3 ► Go to: Actions tab → "Generate Snake" → Run workflow
+           Once it completes, the snake below will appear automatically!
+  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 -->
 
 <div align="center">
