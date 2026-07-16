@@ -205,25 +205,25 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
-<!-- ╔══════════ TROPHIES ══════════╗ -->
-## 🏆 GitHub Trophies
+<!-- ╔══════════ GITHUB ANALYTICS ══════════╗ -->
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arsh-sudo&theme=radical&no-frame=false&margin-w=4&column=6" alt="GitHub Trophies"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arsh-sudo&theme=tokyonight" alt="Stats Card"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arsh-sudo&theme=tokyonight&utcOffset=5.5" alt="Productive Time"/>
+
+<br/><br/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arsh-sudo&theme=tokyonight" alt="Repos Per Language"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arsh-sudo&theme=tokyonight" alt="Most Commit Language"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arsh-sudo&theme=tokyonight" alt="Profile Details"/>
 
 </div>
-
-<br/>
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Arsh-sudo&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"/>
-
-</div>
-<!-- ╚══════════ TROPHIES ══════════╝ -->
+<!-- ╚══════════ GITHUB ANALYTICS ══════════╝ -->
 
 
 <!-- ─── DIVIDER ─── -->
